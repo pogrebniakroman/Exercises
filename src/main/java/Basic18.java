@@ -10,8 +10,9 @@ public class Basic18 {
       float h = (float)(t-m);
       float g = (float) Math.sqrt(h);
       float k = (float) (r/g);
+      float j = (float) Math.floor(k);
 
-        System.out.println(k);
+        System.out.println(j);
 
 
     }
