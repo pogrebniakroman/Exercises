@@ -1,8 +1,8 @@
-public class loop2 {
+public class loop3 {
     public static void main(String[] args) {
-        String a = "*";
+        String a = "**";
         int i;
-        for(i=1; i<=5; i++){
+        for(i=0; i<=2; i++){
             System.out.println(a);
         }
     }
