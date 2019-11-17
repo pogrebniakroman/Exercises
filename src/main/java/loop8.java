@@ -5,6 +5,7 @@ public class loop8 {
         for (byte i = 1; i <= 10; i++) {
             System.out.print(Math.pow(i, 2));
         }
+        }
     }
-}
+
 
