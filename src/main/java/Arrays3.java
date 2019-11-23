@@ -9,5 +9,8 @@ public class Arrays3 {
          sum=sum+array2[i];
      }
         System.out.println(sum);
+
+
     }
 }
+
