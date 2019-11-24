@@ -7,7 +7,7 @@ public class Arrays5 {
         boolean k;
         for (int i = 0; i < array.length; i++){
             if ((k = (i % 2) == 0)) {
-            } else {array[i]+=(array[i]);}
+            } else {array[i]=(array[i]);}
 
             System.out.println(array[i]);
 
