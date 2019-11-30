@@ -5,7 +5,6 @@ public class Strings4 {
       for(char i:ar) {
             System.out.print(i+",");
 
-
         }
     }
 }

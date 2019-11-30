@@ -5,10 +5,7 @@ public class Strings6 {
         String[] token = toAppercase.split("\\s+|\\.$");
         for (String current : token) {
             String first = String.valueOf(Character.toUpperCase(current.charAt(0)));
-            String between = current.substring(1, current.length()-1);
-            if(!cap.equals("")){
-                cap += "";
-            }
+            String between = current.substring(1, current.length());
             System.out.print(first+between+" ");
         }
     }
