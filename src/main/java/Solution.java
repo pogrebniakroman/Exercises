@@ -8,5 +8,5 @@ public class Solution {
         int vol=a*b*c*1000;
         return vol;
     }
-} {
 }
+
