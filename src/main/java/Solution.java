@@ -1,8 +1,3 @@
- com.javarush.task.task01.task0134;
-
-/*
-Набираем воду в бассейн
-*/
 
 public class Solution {
     public static void main(String[] args) {
@@ -11,7 +6,7 @@ public class Solution {
 
     public static long getVolume(int a, int b, int c) {
         int vol=a*b*c*1000;
-        return vol;//напишите тут ваш код
+        return vol;
     }
 } {
 }
